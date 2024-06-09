@@ -1,7 +1,7 @@
 #s24004
 #成績判定
 
-score = int(input())
+score = int(input("点数を入力: "))
 if score >= 80:
     print("優")
     

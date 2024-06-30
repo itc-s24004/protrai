@@ -22,7 +22,7 @@ root = tk.Tk()
 root.title("画像ビューアー")
 root.geometry("550x450")
 
-lblTitle = tk.Label(text="画像表示アプリ バージョン2.0", font=("Helvetica", 25))
+lblTitle = tk.Label(text="🎨画像表示アプリ バージョン2.0🎨", font=("Helvetica", 25))
 lblTitle.pack()
 
 

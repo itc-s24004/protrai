@@ -1,3 +1,6 @@
+#s24004
+#画像ビューアー
+
 import tkinter as tk
 import tkinter.filedialog as fd
 import PIL.Image, PIL.ImageTk
